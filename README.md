@@ -9,14 +9,14 @@ Aimed to showcase *SQL + MySQL skills* for backend developer interviews and port
 ## 📂 Project Structure
 
 food_delivery_db/
-├── schema.sql                # Database schema (tables + sample data)
-├── queries.sql               # 20+ analytical and interview-style queries
-├── procedures_triggers.sql   # Stored procedures, triggers, transactions
-├── indexes.sql               #Indexes for optimization
-├── views.sql                 #views for faster analysis
+├── schema.sql                 Database schema (tables + sample data)
+├── queries.sql                20+ analytical and interview-style queries
+├── procedures_triggers.sql    Stored procedures, triggers, transactions
+├── indexes.sql                Indexes for optimization
+├── views.sql                  views for faster analysis
 ├── docs/
-│   ├── ER_Diagram.png        # ER diagram of the system
-│   └── screenshots/          # Query outputs, views, procedures results
+│   ├── ER_Diagram.png         ER diagram of the system
+│   └── screenshots/           Query outputs, views, procedures results
 └── README.md
 
 ---
@@ -117,3 +117,4 @@ mysql, sql, database, food-delivery, backend, triggers, stored-procedures, views
 ### 📌 GitHub:https://github.com/Manikantan-96/Food-Delivery-Database
 
 ---  
+
